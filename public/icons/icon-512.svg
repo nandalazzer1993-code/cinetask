@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="CineTask app icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9f1239" />
+      <stop offset="100%" stop-color="#e11d48" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#ca8a04" />
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="#120b16" />
+  <rect x="56" y="56" width="400" height="400" rx="92" fill="url(#bg)" />
+  <path d="M180 164h156v48H228v46h89v45h-89v47h108v48H180z" fill="white" />
+  <path d="M160 120h192l-16 30H176zM160 362h192l-16 30H176z" fill="url(#gold)" />
+</svg>

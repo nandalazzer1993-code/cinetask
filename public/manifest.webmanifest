@@ -1,0 +1,24 @@
+{
+  "name": "CineTask",
+  "short_name": "CineTask",
+  "description": "Earn by watching movie trailers and completing daily tasks.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120b16",
+  "theme_color": "#1d0f1f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
